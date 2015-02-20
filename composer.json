@@ -1,0 +1,16 @@
+{
+    "name": "cmskit/bower-bpmn-js",
+    "type": "library",
+    "version": "0.9.0",
+    "description": "bpmn-js is the BPMN 2.0 diagram modeling and rendering toolkit",
+    "license": "bpmn-js license",
+    "authors": [
+        {
+            "name": "camunda services GmbH"
+        }
+    ],
+    "homepage": "http://bpmn.io",
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
